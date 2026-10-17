@@ -372,7 +372,7 @@ export default function Home() {
         </div>
 
         <div className="mx-auto mt-12 max-w-7xl border-t border-white/10 pt-6 text-sm text-slate-500">
-          © {new Date().getFullYear()} Your School. All rights reserved.
+          © 2026 Your School. All rights reserved.
         </div>
       </footer>
 
